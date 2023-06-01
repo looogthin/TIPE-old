@@ -26,7 +26,9 @@ Le DOT peut être aussi l'occasion d'indiquer les éventuelles difficultés renc
 Notez **chaque semaine** ce que vous faites et la date correspondante.
 
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus. J'ai créé mon dépot Github.
--
+- Jeudi 18 mai : Recherche sur les IA qui existent déjà pour le jeu
+- Jeudi 25 mai : Documentation (algorithme a utiliser, fonction d'évaluation...)
+- Jeudi 1 juin 2023 : Code du jeu
 -
 -
 -
